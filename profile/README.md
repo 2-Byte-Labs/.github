@@ -7,7 +7,7 @@ Leading global blockchain research and strategy.
 
 
 
-### Find out More
+## More Info
 [Website](https://2bytelabs.io)
 <img width="16" alt="2 byte labs - flask logo" src="https://user-images.githubusercontent.com/1342367/170810854-e1312c55-80d8-46a0-8355-2aca80ab0f17.png"> 
 
