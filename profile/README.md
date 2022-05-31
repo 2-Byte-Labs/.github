@@ -1,14 +1,13 @@
 
 <img max-width="1268" width="100%" alt="2 byte labs - flask text logo" src="https://user-images.githubusercontent.com/1342367/170810835-5d0ad7d8-1421-403f-ba6f-3c805aa72396.png">
 
-# About
-
+# 2 Byte Labs
 
 Leading global blockchain research and strategy.
 
 
 
-
+### Find out More
 [Website](https://2bytelabs.io)
 <img width="16" alt="2 byte labs - flask logo" src="https://user-images.githubusercontent.com/1342367/170810854-e1312c55-80d8-46a0-8355-2aca80ab0f17.png"> 
 
